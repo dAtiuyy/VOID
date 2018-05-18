@@ -24,8 +24,7 @@ A custom hacked client for Void Realms
 * Mscale
   * /mscale <1.0 - 3.0>
 
-## Sreen Shot
-
-  
+## Screen Shot
+![alt text](https://github.com/NotLegend/VoidClient/blob/master/Capture.PNG)
 ## Download Link
 link here
