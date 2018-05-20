@@ -1,6 +1,8 @@
 # Custom Void Client
 A custom hacked client for Void Realms
 
+#### Up to date as of May 20th
+
 ## Contents
 * Toggleable godmode
   * Prevents projectile damage
