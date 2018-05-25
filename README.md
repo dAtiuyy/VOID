@@ -22,8 +22,10 @@ A custom hacked client for Void Realms
   * disables slowness from sink tiles ex: water tiles, lava, quick sand in tomb etc
 * No cooldowns
   * disables ability cooldowns
+* Projectile no-clip
+  * walls are over rated
 * Toggleable display hub
-  * displays godmode, dex, msm
+  * displays godmode, range, msm
 * Mscale
   * /mscale <1.0 - 3.0>
 
