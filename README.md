@@ -1,7 +1,7 @@
 # Custom Void Client
 A custom hacked client for Void Realms
 
-#### Up to date as of May 20th
+#### Up to date as of May 25th
 
 ## Contents
 * Toggleable godmode
@@ -11,8 +11,9 @@ A custom hacked client for Void Realms
 * Toggleable msm (Move Speed Multiplier)
   * /msm <number bewteen 1.0 and 2.0>
   * 1.0 is normal speed, 2.0 is double
-* Toggleable dex boost
-  * this is just a beserk buff so 150% rof
+* Toggleable range boost
+  * extra projectile range
+  * can be increased(in seconds) by /range <0 - 1.0>
 * No Debuffs
   * No confuse
   * No stunned/dazed
@@ -27,6 +28,6 @@ A custom hacked client for Void Realms
   * /mscale <1.0 - 3.0>
 
 ## Screen Shot
-![alt text](https://github.com/NotLegend/VoidClient/blob/master/Capture.PNG)
+![alt text](https://github.com/NotLegend/VoidClient/blob/master/Hacks.PNG)
 ## Download Link
 [Client Download](https://github.com/NotLegend/VoidClient/raw/master/CustomVoidClient.swf "Hacked Client")
