@@ -8,12 +8,13 @@ A custom hacked client for Void Realms
   * Prevents projectile damage
   * Prevents tile damage ex: lava tiles
   * Does NOT protect against bombs ex: medusa bombs
+* Toggeable Stacked Shots
+  * its set at 5 and is non changeable unless you edit the client
 * Toggleable msm (Move Speed Multiplier)
   * /msm <number bewteen 1.0 and 2.0>
   * 1.0 is normal speed, 2.0 is double
 * Toggleable range boost
-  * extra projectile range
-  * can be increased(in seconds) by /range <0 - 1.0>
+  * increases projectile range by 1 second
 * No Debuffs
   * No confuse
   * No stunned/dazed
@@ -28,6 +29,8 @@ A custom hacked client for Void Realms
   * displays godmode, range, msm
 * Mscale
   * /mscale <1.0 - 3.0>
+* Disable Players
+  * You can disable players in the experimental options tab (BETA)
 
 ## Screen Shot
 ![alt text](https://github.com/NotLegend/VoidClient/blob/master/Hacks.PNG)
