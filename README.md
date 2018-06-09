@@ -1,7 +1,7 @@
 # Custom Void Client
 A custom hacked client for Void Realms
 
-#### Up to date as of May 25th
+#### Up to date as of June 8th
 
 ## Contents
 * Toggleable godmode
@@ -26,7 +26,7 @@ A custom hacked client for Void Realms
 * Projectile no-clip
   * walls are over rated
 * Toggleable display hub
-  * displays godmode, range, msm
+  * displays godmode, range, msm, stacked shots
 * Mscale
   * /mscale <1.0 - 3.0>
 * Disable Players
