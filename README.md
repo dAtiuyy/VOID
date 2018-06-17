@@ -1,7 +1,7 @@
 # Custom Void Client
 A custom hacked client for Void Realms
 
-#### Up to date as of June 8th
+#### Up to date as of June 17th
 
 ## Contents
 * Toggleable godmode
