@@ -36,3 +36,6 @@ A custom hacked client for Void Realms
 ![alt text](https://github.com/NotLegend/VoidClient/blob/master/Hacks.PNG)
 ## Download Link
 [Client Download](https://github.com/NotLegend/VoidClient/raw/master/CustomVoidClient.swf "Hacked Client")
+
+# Credits
+* Credits to DevilRotMG for teaching how to open swf file in SWF iD.
