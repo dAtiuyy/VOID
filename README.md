@@ -9,6 +9,8 @@ A custom hacked client for Void Realms
   * Prevents projectile damage
   * Prevents tile damage ex: lava tiles
   * Does NOT protect against bombs ex: medusa bombs
+* Toggle Kill Aura 
+  * Soon to add
 * Toggeable Stacked Shots
   * its set at 5 and is non changeable unless you edit the client
 * Toggleable msm (Move Speed Multiplier)
