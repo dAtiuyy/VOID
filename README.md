@@ -36,4 +36,4 @@ A custom hacked client for Void Realms
 ## Screen Shot
 ![alt text](https://github.com/dAtiuyy/VOID/blob/master/Hacks.PNG)
 ## Download Link
-[Client Download](https://github.com/NotLegend/VoidClient/raw/master/CustomVoidClient.swf "Hacked Client")
+[Client Download](https://github.com/dAtiuyy/VOID/blob/master/CustomVoidClient.swf "Hacked Client")
