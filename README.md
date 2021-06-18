@@ -34,6 +34,6 @@ A custom hacked client for Void Realms
   * You can disable players in the experimental options tab (BETA)
 
 ## Screen Shot
-![alt text](https://github.com/NotLegend/VoidClient/blob/master/Hacks.PNG)
+![alt text](https://github.com/dAtiuyy/VOID/blob/master/Hacks.PNG)
 ## Download Link
 [Client Download](https://github.com/NotLegend/VoidClient/raw/master/CustomVoidClient.swf "Hacked Client")
