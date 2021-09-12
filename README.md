@@ -42,17 +42,29 @@ A custom hacked client for Void Realms
 
 
 ✓  WebMain.as (Added loader to bypass protection, loads Alvina.swf if there's one in same folder as swf)
+
 ✓  PlayGameCommand.as (Custom reconnect delay)
+
 ✓  IdleWatcher.as (Remove afk kick)
+
 ✓  Player.as (speed/dexhack, stacked shots, ability cooldown, and manaless abil toggles, tp bypass, changeable ArcGap)
+
 ✓  MapUserInput.as (Add new buttons for toggles)
+
 ✓  Parameters.as (Added new parameters in setDefaults so hack settings save after closing game)
+
 ✓  Options.as (Added hacks to options)
+
 ✓  Map.as (Allow teleporting on every map)
+
 ✓  Gamesprite.as (changed initialize function so spawner tp button cycle resets every map)
+
 ✓  GameServerConnectionConcrete.as (Godmode/tile godmode, toggle consumable cooldown, use loader to bypass protection, onValidate function)
+
 ✓  ParseChatMessageCommand.as (Where I added commands)
+
 ✓  TradeButton.as (Remove trade delay)
+
 ✓  Projectile.as (Add killaura with toggle)
 
 ✓  GameObject.as (Anti-debuffs)
