@@ -1,4 +1,4 @@
-# Custom Void Client
+A collection of cheat examples for ROTMG private servers.
 A custom hacked client for Void Realms
 
 ### Improving this because I'm bored
