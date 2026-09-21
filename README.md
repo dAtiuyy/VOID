@@ -65,6 +65,4 @@ A custom hacked client for Void Realms
 
 ✓  TradeButton.as (Remove trade delay)
 
-✓  Projectile.as (Add killaura with toggle)
-
 ✓  GameObject.as (Anti-debuffs)
